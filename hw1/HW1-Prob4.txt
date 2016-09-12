@@ -1,0 +1,13 @@
+1. 3 things I learned:
+	* "The greatest value of a picture is when it forces us to notice what we never expected to see." - John Tukey
+	* Five principles of effective visualizations:
+		- Have graphical integrity
+		- Keep it simple
+		- Use the right display
+		- Use color carefully (strategically)
+		- Tell a story with data
+	* Use visualization to question our initialization and play different visualizations in the data to see the pattern.
+
+2. 2 things that were interesting:
+	* As a data scientist, the objective of visualization is not to make data look pretty but to communicate the data. (don't do 3D charts)
+	* Effective visualization helps you create a clear idea or mental picture.
