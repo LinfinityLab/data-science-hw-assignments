@@ -11,3 +11,6 @@
 2. 2 things that were interesting:
 	* As a data scientist, the objective of visualization is not to make data look pretty but to communicate the data. (don't do 3D charts)
 	* Effective visualization helps you create a clear idea or mental picture.
+
+3. 1 question that I didn’t quite understand:
+	* What are the rules when it comes to data collection?
