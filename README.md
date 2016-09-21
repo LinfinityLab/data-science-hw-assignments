@@ -13,7 +13,7 @@ Submit a text file. Use complete sentences.
 #####Problem 3 [Stats two populations](/hw1/HW1-Prob3.ipynb)
 
 ## [HW2](/hw2) 
-#####Problem 1 [Gene Expression]()
-#####Problem 2 [Investigating Pollster Bias]()
-#####Problem 3 [Averages of Polls]()
-#####Problem 4 [Predict (after the fact) the 2014 election]()
+#####Problem 1 [Gene Expression](/hw2/HW2P1.ipynb)
+#####Problem 2 [Investigating Pollster Bias](/hw2/HW2P2.ipynb)
+#####Problem 3 [Averages of Polls](/hw2/HW2P3.ipynb)
+#####Problem 4 [Predict (after the fact) the 2014 election](/hw2/HW2P4.ipynb)
