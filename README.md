@@ -17,3 +17,6 @@ Submit a text file. Use complete sentences.
 #####Problem 2 [Investigating Pollster Bias](/lin_w_hw2/HW2P2.ipynb)
 #####Problem 3 [Averages of Polls](/lin_w_hw2/HW2P3.ipynb)
 #####Problem 4 [Predict (after the fact) the 2014 election](/lin_w_hw2/HW2P4.ipynb)
+
+## [HW3](/lin_w_hw3)
+[Introduction to Machine Learning: Clustering and Regression](/lin_w_hw3/HW3.ipynb)
