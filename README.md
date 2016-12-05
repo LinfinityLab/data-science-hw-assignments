@@ -22,4 +22,4 @@ Submit a text file. Use complete sentences.
 [Introduction to Machine Learning: Clustering and Regression](/lin_w_hw3/HW3.ipynb)
 
 ## [HW4](/lin_w_hw4)
-[Recommender Systems](/lin_w_h4/HW4.ipynb)
+[Recommender Systems](/lin_w_hw4/HW4.ipynb)
